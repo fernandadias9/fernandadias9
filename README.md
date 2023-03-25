@@ -1,6 +1,7 @@
 ### Hi there, I'm Fernanda!
 
 👩🏻‍🎓 Studying the first semester in Análise e Desenvolvimento de Sistemas at Senac
+
 💻 Learning with Discover at Rocketseat
 
 <!--
