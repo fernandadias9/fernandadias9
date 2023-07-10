@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 Studying the first semester in Análise e Desenvolvimento de Sistemas at Senac
 
-💻 Learning with Discover at Rocketseat
+💻 Learning with Explorer at Rocketseat
 
 <!--
 - 🔭 I’m currently working on ...
