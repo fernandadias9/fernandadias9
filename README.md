@@ -1,8 +1,15 @@
 ### Hi there, I'm Fernanda!
 
-👩🏻‍🎓 Studying the third semester in Análise e Desenvolvimento de Sistemas at Senac
+👩🏻‍🎓 Studying the third semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
 
-💻 Learning with Explorer at Rocketseat
+💻 Learning with Explorer at [Rocketseat](https://www.rocketseat.com.br/)
+
+#### Technologies
+- Back-end: `Java`
+- Front-end: `JavaScript`, `HTML5`, `CSS`
+- UI/UX Design: `Figma`
+- Database: `MySQL`
+- Version Code Control: `Git`, `GitHub`
 
 <!--
 - 🔭 I’m currently working on ...
