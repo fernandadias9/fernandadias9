@@ -1,8 +1,7 @@
 ### Hi there, I'm Fernanda!
 
-👩🏻‍🎓 Studying the third semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
+👩🏻‍🎓 Studying the fourth semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
 
-💻 Learning with Explorer at [Rocketseat](https://www.rocketseat.com.br/)
 
 #### Technologies
 - Back-end: `Java`
