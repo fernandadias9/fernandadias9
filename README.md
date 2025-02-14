@@ -4,10 +4,10 @@
 
 
 #### Technologies
-- Back-end: `Java`
-- Front-end: `JavaScript`, `HTML5`, `CSS`
+- Back-end: `Java`, `Node`, `Nest`
+- Front-end: `React`, `Angular`, `JavaScript`, `HTML5`, `CSS`
 - UI/UX Design: `Figma`
-- Database: `MySQL`
+- Database: `MySQL`, `MongoDB`
 - Version Code Control: `Git`, `GitHub`
 
 <!--
