@@ -1,6 +1,6 @@
 ### Hi there, I'm Fernanda!
 
-👩🏻‍🎓 Studying the fourth semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
+👩🏻‍🎓 Studying the fifth semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
 
 
 #### Technologies
