@@ -10,6 +10,12 @@ Graduated in Análise e Desenvolvimento de Sistemas
 - Database: `MySQL`, `MongoDB`
 - Version Code Control: `Git`, `GitHub`
 
+### 📊 Meu GitHub em números 
+
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
