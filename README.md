@@ -12,9 +12,9 @@ Graduated in Análise e Desenvolvimento de Sistemas
 
 ### 📊 Meu GitHub em números 
 
-![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=radical)
+![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandadias9&show_icons=true&theme=radical)
 
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seunome&layout=compact&theme=radical)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadias9&layout=compact&theme=radical)
 
 <!--
 - 🔭 I’m currently working on ...
