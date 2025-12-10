@@ -16,6 +16,7 @@ Graduated in Análise e Desenvolvimento de Sistemas
 
 ![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadias9&layout=compact&theme=radical)
 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
