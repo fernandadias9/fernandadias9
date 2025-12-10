@@ -1,10 +1,10 @@
 ### Hi there, I'm Fernanda!
 
-👩🏻‍🎓 Studying the fifth semester in Análise e Desenvolvimento de Sistemas at [Senac Florianópolis](https://portal.sc.senac.br/portal/novo/)
+Graduated in Análise e Desenvolvimento de Sistemas
 
 
 #### Technologies
-- Back-end: `Java`, `Node`, `Nest`
+- Back-end: `Golang`, `Java`, `Node`, `Nest`
 - Front-end: `React`, `Angular`, `JavaScript`, `HTML5`, `CSS`
 - UI/UX Design: `Figma`
 - Database: `MySQL`, `MongoDB`
