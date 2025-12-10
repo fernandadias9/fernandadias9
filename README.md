@@ -10,13 +10,6 @@ Graduated in Análise e Desenvolvimento de Sistemas
 - Database: `MySQL`, `MongoDB`
 - Version Code Control: `Git`, `GitHub`
 
-### 📊 Meu GitHub em números 
-
-![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandadias9&show_icons=true&theme=radical)
-
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandadias9&layout=compact&theme=radical)
-
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
